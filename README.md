@@ -70,4 +70,6 @@ Using the word use creates a new database
 Use db to execute any command to perform on mongo
 
 EX. use dbName
-	
+
+reference the following for command line:
+	https://docs.mongodb.com/manual/reference/mongo-shell/
