@@ -57,12 +57,17 @@ For Mac User:
 
 
 
+# Stop mongodb
 
-
-To stop mongod
+One way to stop mongod
 1. Type top, this will show all the process
 2. Find the mongo pid 
 3. Open a seperate terminal
     1. sudo kill <the PID Number>
 
+# To Create a Mongo Database
+Using the word use creates a new database
+Use db to execute any command to perform on mongo
+
+EX. use dbName
 	
